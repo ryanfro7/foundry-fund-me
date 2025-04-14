@@ -104,7 +104,6 @@ contract FundMe {
     function getPriceFeed() public view returns (AggregatorV3Interface) {
         return s_priceFeed;
     }
-
 }
 
 // Concepts we didn't cover yet (will cover in later sections)
