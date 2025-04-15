@@ -20,7 +20,7 @@ This is the first piece of Solidity code I've worked with as part of the Cyfrin 
   - [Let's talk about what "Official" means](#lets-talk-about-what-official-means)
   - [Summary](#summary)
 
-##Requirements
+#Requirements
 
 - [git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
   - You'll know you did it right if you can run `git --version` and you see a response like `git version x.x.x`
